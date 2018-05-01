@@ -7,7 +7,7 @@ This monorepo provides Mollie's JS `.eslintrc` files which are distributed as se
 ### `@mollie/eslint-config-base`
 Our default export contains all of our ESLint rules, including ECMAScript 6+. It requires `eslint` and depends on `eslint-plugin-import`.
 
-### @mollie/eslint-config-node
+### `@mollie/eslint-config-node`
 Extends the `@mollie/eslint-config-base` configuration. Enables all ECMAScript 6 features (except for modules), Node.js global variables and Node.js scoping.
 
 ### `@mollie/eslint-config-react`
