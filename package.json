@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "workspaces": [
+    "eslint-config-base",
+    "eslint-config-react",
+    "eslint-config-node",
+    "eslint-config-flow"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@mollie/eslint-config-flow",
+  "version": "0.0.1",
+  "description": "Mollie's standalone ESLint configuration preset for Flow",
+  "main": "index.js",
+  "author": "Mollie B.V. <info@mollie.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "eslint-plugin-flowtype": "^2.46.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@mollie/eslint-config-base",
+  "version": "0.0.1",
+  "description": "Mollie's base ESLint configuration preset",
+  "main": "index.js",
+  "author": "Mollie B.V. <info@mollie.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
