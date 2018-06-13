@@ -1,6 +1,6 @@
 {
   "name": "mollie-eslint-config-base",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.2",
   "description": "Mollie's base ESLint configuration preset.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
@@ -11,7 +11,7 @@
   "peerDependencies": {
     "eslint": ">= 3"
   },
-  "devDependencies": {
+  "dependencies": {
     "eslint-plugin-import": "^2.8.0"
   }
 }
