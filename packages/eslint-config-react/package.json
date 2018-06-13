@@ -1,17 +1,20 @@
 {
-  "name": "@mollie/eslint-config-react",
-  "version": "0.0.1",
-  "description": "Mollie's ESLint configuration preset for React",
+  "name": "mollie-eslint-config-react",
+  "version": "0.0.1-alpha.1",
+  "description": "Mollie's ESLint configuration preset for React.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "eslint": ">= 3"
   },
   "devDependencies": {
     "eslint-plugin-jsx-a11y": "5.1.1",
     "eslint-plugin-react": "^7.6.1",
-    "@mollie/eslint-config-base": "0.0.1",
+    "mollie-eslint-config-base": "0.0.1-alpha.1",
     "eslint-config-react-app": "^2.1.0"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "name": "mollie-eslint-config-node",
+  "version": "0.0.1-alpha.1",
+  "description": "Mollie's ESLint configuration preset for Node.",
+  "main": "index.js",
+  "author": "Mollie B.V. <info@mollie.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "mollie-eslint-config-base": "0.0.1-alpha.1"
+  }
+}

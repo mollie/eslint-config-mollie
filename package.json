@@ -1,9 +1,14 @@
 {
   "private": true,
   "workspaces": [
-    "eslint-config-base",
-    "eslint-config-react",
-    "eslint-config-node",
-    "eslint-config-flow"
-  ]
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^2.11.0"
+  },
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "prepare": "lerna run prepare",
+    "publish": "lerna run publish"
+  }
 }
