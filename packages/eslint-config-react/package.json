@@ -12,9 +12,9 @@
     "eslint": ">= 3"
   },
   "dependencies": {
+    "eslint-config-react-app": "^2.1.0",
     "eslint-plugin-jsx-a11y": "5.1.1",
     "eslint-plugin-react": "^7.6.1",
-    "mollie-eslint-config-base": "0.0.1-alpha.2",
-    "eslint-config-react-app": "^2.1.0"
+    "mollie-eslint-config-base": "^0.0.1-alpha.2"
   }
 }
