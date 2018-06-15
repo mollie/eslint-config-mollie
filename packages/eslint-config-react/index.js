@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ["mollie-eslint-config-base", "react-app"],
+  extends: ["mollie-base", "react-app"],
   plugins: ["jsx-a11y"],
   rules: {
     "jsx-a11y/no-static-element-interactions": "warn",
