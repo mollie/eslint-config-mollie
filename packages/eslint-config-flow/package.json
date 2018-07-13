@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-mollie-flow",
+  "name": "@mollie/eslint-config-flow",
   "version": "0.0.1-alpha.2",
   "description": "Mollie's standalone ESLint configuration preset for Flow.",
   "main": "index.js",
