@@ -1,6 +1,6 @@
 {
   "name": "@mollie/eslint-config-react",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "description": "Mollie's ESLint configuration preset for React.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",

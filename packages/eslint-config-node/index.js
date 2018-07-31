@@ -1,5 +1,5 @@
 module.exports = {
-  extends: "mollie-base",
+  extends: "@mollie/eslint-config-base",
   env: {
     es6: true,
     node: true,
