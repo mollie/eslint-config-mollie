@@ -1,0 +1,18 @@
+{
+  "name": "@mollie/eslint-config-react-typescript",
+  "version": "0.0.1-alpha.4",
+  "description": "Mollie's ESLint configuration preset for React + TypeScript.",
+  "main": "index.js",
+  "author": "Mollie B.V. <info@mollie.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "dependencies": {
+    "@mollie/eslint-config-react": "^0.0.1-alpha.3",
+    "@mollie/eslint-config-typescript": "^0.0.1-alpha.3"
+  }
+}
