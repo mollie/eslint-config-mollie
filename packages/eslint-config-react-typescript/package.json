@@ -9,7 +9,8 @@
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 5.12.1",
+    "typescript": ">= 3.2.1"
   },
   "dependencies": {
     "@mollie/eslint-config-react": "^0.0.1-alpha.3",
