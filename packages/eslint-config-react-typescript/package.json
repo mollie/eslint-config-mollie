@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "@mollie/eslint-config-react": "^1.0.1",
-    "@mollie/eslint-config-typescript": "^1.0.0"
+    "@mollie/eslint-config-typescript": "^1.0.1"
   }
 }

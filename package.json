@@ -10,5 +10,6 @@
     "bootstrap": "lerna bootstrap",
     "prepare": "lerna run prepare",
     "publish": "lerna run publish"
-  }
+  },
+  "name": "eslint-config-mollie"
 }
