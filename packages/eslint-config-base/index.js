@@ -7,5 +7,6 @@ module.exports = {
     "import/no-extraneous-dependencies": "error",
     "no-unused-vars": "error",
     "no-console": "warn",
+    "default-case": "off",
   },
 };

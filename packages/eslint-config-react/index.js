@@ -6,4 +6,9 @@ module.exports = {
     "jsx-a11y/label-has-for": "warn",
     "react/sort-comp": "error",
   },
+  settings: {
+    react: {
+      version: "detect",
+    },
+  },
 };
