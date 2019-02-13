@@ -1,6 +1,6 @@
 {
   "name": "@mollie/eslint-config-react",
-  "version": "0.0.1-alpha.4",
+  "version": "1.0.0",
   "description": "Mollie's ESLint configuration preset for React.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
@@ -12,7 +12,7 @@
     "eslint": ">= 3"
   },
   "dependencies": {
-    "@mollie/eslint-config-base": "^0.0.1-alpha.3",
+    "@mollie/eslint-config-base": "^1.0.0",
     "eslint-config-react-app": "^2.1.0",
     "eslint-plugin-jsx-a11y": "5.1.1",
     "eslint-plugin-react": "^7.6.1"
