@@ -24,3 +24,9 @@ Extends the `@mollie/eslint-config-base` configuration. This package includes th
 
 ### `@mollie/eslint-config-flow`
 Standalone package for projects using Flow. Can be used without `@mollie/eslint-config-base`.
+
+### `@mollie/eslint-config-typescript`
+Extends the `@mollie/eslint-config-base` configuration. Enables TypeScript support with the help of an [ESLint plugin](https://github.com/typescript-eslint/typescript-eslint).
+
+### `@mollie/eslint-config-react-typescript`
+Extends the `@mollie/eslint-config-typescript` and `@mollie/eslint-config-react` configuration. This package enables both React and TypeScript support.
