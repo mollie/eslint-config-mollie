@@ -1,6 +1,6 @@
 {
   "name": "@mollie/eslint-config-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Mollie's ESLint configuration preset for Node.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
@@ -12,6 +12,6 @@
     "eslint": ">= 3"
   },
   "dependencies": {
-    "@mollie/eslint-config-base": "^1.0.2"
+    "@mollie/eslint-config-base": "^1.0.3"
   }
 }
