@@ -12,6 +12,7 @@
     "eslint": ">= 3"
   },
   "dependencies": {
-    "eslint-plugin-import": "^2.8.0"
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-no-only-tests": "^2.3.1"
   }
 }

@@ -3,7 +3,7 @@ module.exports = {
    * Extending works from right to left. The rules inside the package on the right will always "win"
    * from the rules that are defined in the packages on the left side.
    */
-  plugins: ["import"],
+  plugins: ["import", "no-only-tests"],
   rules: {
     "import/default": "error",
     "import/named": "error",
@@ -12,5 +12,6 @@ module.exports = {
     "no-unused-vars": "error",
     "no-console": "warn",
     "default-case": "off",
+    "no-only-tests/no-only-tests": "error"
   },
 };
