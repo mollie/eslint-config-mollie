@@ -1,6 +1,6 @@
 # Mollie ESLint config
 
-This monorepo provides Mollie's JS `.eslintrc` files which are distributed as separate, extensible configuration files.
+This monorepo provides Mollie's ESLint files which are distributed as separate, extensible configuration files.
 
 ## Installation
 
