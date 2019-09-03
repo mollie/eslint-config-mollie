@@ -9,6 +9,7 @@ module.exports = {
   ],
   parser: "@typescript-eslint/parser",
   rules: {
-    "@typescript-eslint/indent": ["error", 2],
+    "@typescript-eslint/no-explicit-any": "off",
+    "@typescript-eslint/interface-name-prefix": "off"
   },
 };
