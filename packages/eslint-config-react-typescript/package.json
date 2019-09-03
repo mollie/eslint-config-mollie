@@ -1,6 +1,6 @@
 {
   "name": "@mollie/eslint-config-react-typescript",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Mollie's ESLint configuration preset for React + TypeScript.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "@mollie/eslint-config-react": "^1.1.0",
-    "@mollie/eslint-config-typescript": "^1.3.1"
+    "@mollie/eslint-config-typescript": "^1.3.2"
   }
 }
