@@ -4,7 +4,7 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^3.11.1"
+    "lerna": "^3.16.4"
   },
   "scripts": {
     "bootstrap": "lerna bootstrap",
