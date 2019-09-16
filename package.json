@@ -9,7 +9,8 @@
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "prepare": "lerna run prepare",
-    "publish": "lerna run publish"
+    "publish": "lerna run publish",
+    "preinstall": "node -e \"if(process.env.npm_execpath.indexOf('yarn') >= 0) throw new Error('You must use NPM to install dependencies, not Yarn.')\""
   },
   "name": "eslint-config-mollie"
 }
