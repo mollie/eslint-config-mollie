@@ -12,6 +12,7 @@ module.exports = {
     "no-unused-vars": "error",
     "no-console": "warn",
     "default-case": "off",
-    "no-only-tests/no-only-tests": "error"
+    "no-only-tests/no-only-tests": "error",
+    "multiline-comment-style": ["error", "starred-block"],
   },
 };
