@@ -9,7 +9,7 @@
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 7"
   },
   "dependencies": {
     "@mollie/eslint-config-base": "^1.1.0"

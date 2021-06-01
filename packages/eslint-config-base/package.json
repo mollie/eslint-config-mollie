@@ -9,10 +9,10 @@
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 7"
   },
   "dependencies": {
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-no-only-tests": "^2.3.1"
+    "eslint-plugin-import": "2.22.0",
+    "eslint-plugin-no-only-tests": "^2.6.0"
   }
 }
