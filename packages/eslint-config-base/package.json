@@ -1,6 +1,6 @@
 {
   "name": "@mollie/eslint-config-base",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Mollie's base ESLint configuration preset.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
