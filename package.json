@@ -4,13 +4,13 @@
     "packages/*"
   ],
   "devDependencies": {
-    "lerna": "^3.20.2"
+    "lerna": "^4.0.0"
   },
   "scripts": {
+    "lerna": "lerna",
     "bootstrap": "lerna bootstrap",
     "prepare": "lerna run prepare",
-    "publish": "lerna run publish",
-    "preinstall": "node -e \"if(process.env.npm_execpath.indexOf('yarn') >= 0) throw new Error('You must use NPM to install dependencies, not Yarn.')\""
+    "publish": "lerna run publish"
   },
   "name": "eslint-config-mollie"
 }

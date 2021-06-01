@@ -1,6 +1,6 @@
 {
   "name": "@mollie/eslint-config-react",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Mollie's ESLint configuration preset for React.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
@@ -9,13 +9,13 @@
     "access": "public"
   },
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 7"
   },
   "dependencies": {
-    "@mollie/eslint-config-base": "^1.1.0",
-    "eslint-config-react-app": "^2.1.0",
-    "eslint-plugin-jsx-a11y": "5.1.1",
-    "eslint-plugin-react": "^7.6.1",
-    "eslint-plugin-react-hooks": "^1.0.1"
+    "@mollie/eslint-config-base": "^1.2.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.8"
   }
 }
