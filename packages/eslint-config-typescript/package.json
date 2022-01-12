@@ -1,6 +1,6 @@
 {
   "name": "@mollie/eslint-config-typescript",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "description": "Mollie's ESLint configuration preset for TypeScript.",
   "main": "index.js",
   "author": "Mollie B.V. <info@mollie.com>",
